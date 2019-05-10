@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Денис Хохлов](https://up.htmlacademy.ru/htmlcss/25/user/665991).
-* Наставник: `Неизвестно`.
+* Наставник: [Николай Думчев](https://htmlacademy.ru/profile/nikopol_fw).
 
 ---
 
